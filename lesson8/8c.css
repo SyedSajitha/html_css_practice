@@ -1,0 +1,19 @@
+.input-box{
+    font-size: 15px;
+    border-radius: 13px;
+    padding: 13px;
+    width: 350px;
+    border: none;
+    margin-top: none;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.25);
+    /* box-shadow contains four values Horizontal offset, vertical offset, blur, color */
+   
+    
+}
+.logo{
+    width: 200px;
+    display: block;
+    margin-left: 80px;
+    object-position: bottom;
+
+}

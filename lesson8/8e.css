@@ -1,0 +1,40 @@
+.title{
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 10px ;
+}
+.location{
+    background-color: rgb(231, 221, 221);
+    border: none;
+    padding: 10px;
+    width: 300px;
+    display: block;
+}
+.destination{
+    background-color: rgb(231, 221, 221);
+    border: none;
+    padding: 10px;
+    width: 300px;
+    display: block;
+    margin-top: 10px;
+}
+.req-btn{
+    
+        background-color: black;
+        color: white;
+        height: 36px;
+        width: 105px;
+        border: none;
+        cursor: pointer;
+        margin-top: 40px;
+        margin-right: 10px;
+    
+}
+.Schedule{
+    background-color: rgb(231, 221, 221);
+    
+    height: 36px;
+    width: 150px;
+    border: none;
+    cursor: pointer;
+}

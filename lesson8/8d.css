@@ -1,0 +1,30 @@
+input{
+    padding: 10px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 10px;
+}
+.f_name{
+    width: 150px;
+}
+.L_name{
+    width: 150px;
+}
+.email{
+    
+    width: 330px;
+    display: block;
+}
+.btn{
+    background-color: rgb(14, 82, 184);
+    color: white;
+    border: none;
+    width: 350px;
+    border-radius: 5px;
+    padding-top: 13px ;
+    padding-bottom: 13px ;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+}
